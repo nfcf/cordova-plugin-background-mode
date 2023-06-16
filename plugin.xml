@@ -118,7 +118,7 @@
         </js-module>
     </platform> -->
 
-    <!-- browser -->
+    <!-- browser 
     <platform name="browser">
         <config-file target="config.xml" parent="/*">
             <feature name="BackgroundMode">
@@ -129,6 +129,6 @@
         <js-module src="src/browser/BackgroundModeProxy.js" name="BackgroundMode.Proxy">
             <runs />
         </js-module>
-    </platform>
+    </platform> -->
 
 </plugin>
